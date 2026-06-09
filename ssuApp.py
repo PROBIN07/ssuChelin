@@ -5,6 +5,8 @@ from flask import Flask, render_template_string, request, redirect, url_for, fla
 app = Flask(__name__)
 app.secret_key = "ssuchelin_secret_key_2026_flask"
 
+#왜 수정이 돼
+
 # ==========================================
 # 로컬 JSON 데이터 (V3 - 필터링 필드 추가)
 # ==========================================
